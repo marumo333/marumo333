@@ -19,8 +19,5 @@
 
 ## Recent Projects
 - [outfit-app](https://outfitapp-delta.vercel.app/) - 服を投稿できるwebアプリ
-- 
-
-
 
 
