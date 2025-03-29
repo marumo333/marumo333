@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there 👋 I'm [maurmo333]
 
-<!--
-**marumo333/marumo333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🌱 現在学んでいる言語: [JavaScript,Python,TypeScript]
+- 💼 取り組んでいるもの: [outfit-app,minecaraft-mod-translate]
+- 📫連絡先: [Your contact details or social links]
 
-Here are some ideas to get you started:
+## Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Category         | Skills                                  |
+|------------------|-----------------------------------------|
+| Languages        | JavaScript, Python, TypeScript          |
+| Frameworks       | React, Node.js, Next.js,Vue.js          |
+| Databases        | PostgreSQL, Supabase                    |
+| Tools            | Git, GitHub Actions,Vercel              |
+
+## GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=marumo333&show_icons=true&theme=radical)
+
+## Recent Projects
+- [outfit-app](https://outfitapp-delta.vercel.app/) - 服を投稿できるwebアプリ
+- 
+
+
+
+
