@@ -1,5 +1,5 @@
 # Hi there 👋 I'm [maurmo333]
-
+システムエンジニア職を目指してる文系大学生です。
 ## About Me
 - 🌱 現在学んでいる言語: [JavaScript,Python,TypeScript]
 - 💼 取り組んでいるもの: [outfit-app,minecaraft-mod-translate]
