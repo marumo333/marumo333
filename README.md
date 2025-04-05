@@ -3,7 +3,7 @@
 ## About Me
 - 🌱 現在学んでいる言語: [JavaScript,Python,TypeScript]
 - 💼 取り組んでいるもの: [outfit-app,minecaraft-mod-translate]
-- 📫連絡先: [Your contact details or social links]
+- 📫連絡先: [marumonmon77@gamil.com]
 
 ## Skills & Technologies
 
