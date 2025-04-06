@@ -1,24 +1,65 @@
 # Hi there 👋 I'm [maurmo333]
-システムエンジニア職を目指してる文系大学生です。
+<p>システムエンジニア職を目指している文系大学生です。</p>
+
 ## About Me
-- 🌱 現在学んでいる言語: [JavaScript,Python,TypeScript]
-- 💼 取り組んでいるもの: [outfit-app(服のコーディネートを投稿できるアプリ)
-  ,seller(商品管理アプリ),minecaraft-mod-translate（マイクラのMODを日本語に翻訳するアプリ）]
-- 📫連絡先: [marumonmon77@gamil.com]
+<ul>
+  <li>🌱 現在学んでいる言語: JavaScript, Python, TypeScript</li>
+  <li>💼 取り組んでいるもの:
+    <ul>
+      <li>outfit-app (服のコーディネートを投稿できるアプリ)</li>
+      <li>seller (商品管理アプリ)</li>
+      <li>minecaraft-mod-translate (マイクラのMODを日本語に翻訳するアプリ)</li>
+    </ul>
+  </li>
+  <li>📫 連絡先: 
+    <a href="mailto:marumonmon77@gamil.com">marumonmon77@gamil.com</a>
+  </li>
+</ul>
 
 ## Skills & Technologies
-
-| Category         | Skills                                  |
-|------------------|-----------------------------------------|
-| Languages        | JavaScript, Python, TypeScript          |
-| Frameworks       | React, Node.js, Next.js,Vue.js          |
-| Databases        | PostgreSQL, Supabase                    |
-| Tools            | Git, GitHub Actions,Vercel              |
+<table style="width: 100%; border-collapse: collapse;">
+  <thead>
+    <tr>
+      <th style="padding: 12px; border-bottom: 2px solid #ddd; text-align: left;">Category</th>
+      <th style="padding: 12px; border-bottom: 2px solid #ddd; text-align: left;">Skills</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">Languages</td>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">JavaScript, Python, TypeScript</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">Frameworks</td>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">React, Node.js, Next.js, Vue.js</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">Databases</td>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">PostgreSQL, Supabase</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px;">Tools</td>
+      <td style="padding: 10px;">Git, GitHub Actions, Vercel</td>
+    </tr>
+  </tbody>
+</table>
 
 ## GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=marumo333&show_icons=true&theme=radical)
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=marumo333&show_icons=true&theme=radical" 
+    alt="Your GitHub Stats" 
+  />
+</p>
 
 ## Recent Projects
-- [outfit-app](https://outfitapp-delta.vercel.app/) - 服を投稿できるwebアプリ
+<ul>
+  <li>
+    <a href="https://outfitapp-delta.vercel.app/">
+      outfit-app
+    </a>
+    - 服を投稿できるwebアプリ
+  </li>
+</ul>
 
 
