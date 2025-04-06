@@ -2,7 +2,8 @@
 システムエンジニア職を目指してる文系大学生です。
 ## About Me
 - 🌱 現在学んでいる言語: [JavaScript,Python,TypeScript]
-- 💼 取り組んでいるもの: [outfit-app,seller,minecaraft-mod-translate]
+- 💼 取り組んでいるもの: [outfit-app(服のコーディネートを投稿できるアプリ)
+  ,seller(商品管理アプリ),minecaraft-mod-translate（マイクラのMODを日本語に翻訳するアプリ）]
 - 📫連絡先: [marumonmon77@gamil.com]
 
 ## Skills & Technologies
