@@ -60,6 +60,12 @@
     </a>
     - 服を投稿できるwebアプリ
   </li>
+  <li>
+    <a href="https://seller-weld.vercel.app/">
+      selleo
+    </a>
+    - 商品管理ができるwebアプリ
+  </li>
 </ul>
 
 
