@@ -62,7 +62,7 @@
   </li>
   <li>
     <a href="https://seller-weld.vercel.app/">
-      selleo
+      seller
     </a>
     - 商品管理ができるwebアプリ
   </li>
