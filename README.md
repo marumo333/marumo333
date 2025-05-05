@@ -8,6 +8,7 @@
     <ul>
       <li>outfit-app (服のコーディネートを投稿できるアプリ)</li>
       <li>seller (商品管理アプリ)</li>
+      <li>customer(商品管理アプリのお客様用の商品購入アプリ)</li>
       <li>minecaraft-mod-translate (マイクラのMODを日本語に翻訳するアプリ)</li>
     </ul>
   </li>
