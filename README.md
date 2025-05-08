@@ -67,6 +67,12 @@
     </a>
     - 商品管理ができるwebアプリ
   </li>
+  <li>
+    <a href="https://customer-gamma-one.vercel.app/">
+      customer
+    </a>
+    - sellerのお客様用のwebアプリ
+  </li>
 </ul>
 
 
