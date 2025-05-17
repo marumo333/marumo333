@@ -1,5 +1,5 @@
 # Hi there 👋 I'm marumo333
-<p>文系学生ですが、Webアプリ開発に情熱を持ち、フルスタックで活躍できるシステムエンジニアを目指しています。</p>
+<p>文系学生ですが、Webアプリ開発に情熱を持ち、フルスタックで活躍するシステムエンジニアを目指しています。</p>
 
 ## About Me
 <ul>
@@ -8,7 +8,7 @@
     <ul>
       <li><strong>seller</strong> - 商品管理・在庫・翻訳などができる管理用アプリ</li>
       <li><strong>customer</strong> - 商品閲覧・購入が可能なお客様向けアプリ</li>
-      <li><strong>fast-map</strong>　-　ユーザーに最短経路を提供するMapアプリ</li>　
+      <li><strong>fast-map</strong> - ユーザーに最短経路を提供するMapアプリ</li>
     </ul>
   </li>
   <li>📫 連絡先: 
@@ -88,8 +88,8 @@
   </li>
   <li>
     <a href="https://fish-spot-inky.vercel.app/" target="_blank">
-      fish-spot
+      fish-spot 
     </a>
-    - 選択した地点の満潮や風向を提供できるwebアプリ
+    - 選択した地点の満潮や風向を提供できるWebアプリ
   </li>
 </ul>
