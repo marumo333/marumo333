@@ -9,8 +9,8 @@
       <li><strong>outfit-app</strong> - 服のコーディネートを投稿できるSNS型アプリ</li>
       <li><strong>seller</strong> - 商品管理・在庫・翻訳などができる管理用アプリ</li>
       <li><strong>customer</strong> - 商品閲覧・購入が可能なお客様向けアプリ</li>
+      <li><strong>fish-spot</strong> - 潮見表や風向データを用いて釣れる場所を可視化するアプリ</li>
       <li><strong>minecaraft-mod-translate</strong> - マインクラフトのMODを日本語翻訳するツール（開発中）</li>
-      <li><strong>fish-spot</strong> - 潮見表や風向データを用いて釣れる場所を可視化するアプリ（開発中）</li>
     </ul>
   </li>
   <li>📫 連絡先: 
@@ -87,5 +87,11 @@
       customer
     </a>
     - 商品の購入・閲覧が可能な顧客向けアプリ
+  </li>
+  <li>
+    <a href="https://fish-spot-inky.vercel.app/" target="_blank">
+      fish-spot
+    </a>
+    - 選択した地点の満潮や風向を提供できるwebアプリ
   </li>
 </ul>
