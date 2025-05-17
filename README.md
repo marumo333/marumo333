@@ -1,20 +1,20 @@
-# Hi there 👋 I'm [maurmo333]
-<p>システムエンジニア職を目指している文系大学生です。</p>
+# Hi there 👋 I'm marumo333
+<p>文系出身ながらも、Webアプリ開発に情熱を持ち、フルスタックで活躍できるシステムエンジニアを目指しています。</p>
 
 ## About Me
 <ul>
   <li>🌱 現在学んでいる言語: JavaScript, Python, TypeScript</li>
-  <li>💼 取り組んでいるもの:
+  <li>💼 開発中／取り組み中のプロジェクト:
     <ul>
-      <li>outfit-app (服のコーディネートを投稿できるアプリ)</li>
-      <li>seller (商品管理アプリ)</li>
-      <li>customer(商品管理アプリのお客様用の商品購入アプリ)</li>
-      <li>minecaraft-mod-translate (マイクラのMODを日本語に翻訳するアプリ『未だ開発中』)</li>
-      <li>fish-spot (潮見表やタイドグラフをもとにユーザーに魚が釣れやすい地点を提供するアプリ『未だ開発中』)</li>
+      <li><strong>outfit-app</strong> - 服のコーディネートを投稿できるSNS型アプリ</li>
+      <li><strong>seller</strong> - 商品管理・在庫・翻訳などができる管理用アプリ</li>
+      <li><strong>customer</strong> - 商品閲覧・購入が可能なお客様向けアプリ</li>
+      <li><strong>minecaraft-mod-translate</strong> - マインクラフトのMODを日本語翻訳するツール（開発中）</li>
+      <li><strong>fish-spot</strong> - 潮見表や風向データを用いて釣れる場所を可視化するアプリ（開発中）</li>
     </ul>
   </li>
   <li>📫 連絡先: 
-    <a href="mailto:marumonmon77@gamil.com">marumonmon77@gamil.com</a>
+    <a href="mailto:marumonmon77@gmail.com">marumonmon77@gmail.com</a>
   </li>
 </ul>
 
@@ -33,15 +33,23 @@
     </tr>
     <tr>
       <td style="padding: 10px; border-bottom: 1px solid #ddd;">Frameworks</td>
-      <td style="padding: 10px; border-bottom: 1px solid #ddd;">React, Node.js, Next.js, Vue.js</td>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">React, Next.js, Node.js, Vue.js</td>
     </tr>
     <tr>
       <td style="padding: 10px; border-bottom: 1px solid #ddd;">Databases</td>
       <td style="padding: 10px; border-bottom: 1px solid #ddd;">PostgreSQL, Supabase</td>
     </tr>
     <tr>
-      <td style="padding: 10px;">Tools</td>
-      <td style="padding: 10px;">Git, GitHub Actions, Vercel</td>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">Deployment</td>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">Vercel, Netlify</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">Tools</td>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">Git, GitHub Actions</td>
+    </tr>
+    <tr>
+      <td style="padding: 10px;">Others</td>
+      <td style="padding: 10px;">Tailwind CSS, REST API, Figma</td>
     </tr>
   </tbody>
 </table>
@@ -50,30 +58,34 @@
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=marumo333&show_icons=true&theme=radical" 
-    alt="Your GitHub Stats" 
+    alt="GitHub Stats" 
+  />
+</p>
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marumo333&layout=compact&theme=radical" 
+    alt="Top Languages" 
   />
 </p>
 
 ## Recent Projects
 <ul>
   <li>
-    <a href="https://outfitapp-delta.vercel.app/">
+    <a href="https://outfitapp-delta.vercel.app/" target="_blank">
       outfit-app
     </a>
-    - 服を投稿できるwebアプリ
+    - 服を投稿できるSNS型Webアプリ
   </li>
   <li>
-    <a href="https://seller-weld.vercel.app/">
+    <a href="https://seller-weld.vercel.app/" target="_blank">
       seller
     </a>
-    - 商品管理ができるwebアプリ
+    - 商品を管理・編集・翻訳できるWebアプリ
   </li>
   <li>
-    <a href="https://customer-gamma-one.vercel.app/">
+    <a href="https://customer-gamma-one.vercel.app/" target="_blank">
       customer
     </a>
-    - sellerのお客様用のwebアプリ
+    - 商品の購入・閲覧が可能な顧客向けアプリ
   </li>
 </ul>
-
-
