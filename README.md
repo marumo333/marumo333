@@ -27,11 +27,11 @@
   <tbody>
     <tr>
       <td style="padding: 10px; border-bottom: 1px solid #ddd;">Languages</td>
-      <td style="padding: 10px; border-bottom: 1px solid #ddd;">JavaScript, Python, TypeScript</td>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">JavaScript, Python, TypeScript,PHP</td>
     </tr>
     <tr>
       <td style="padding: 10px; border-bottom: 1px solid #ddd;">Frameworks</td>
-      <td style="padding: 10px; border-bottom: 1px solid #ddd;">React, Next.js, Node.js, Vue.js</td>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">React, Next.js, Node.js, Vue.js,Laravel</td>
     </tr>
     <tr>
       <td style="padding: 10px; border-bottom: 1px solid #ddd;">Databases</td>
