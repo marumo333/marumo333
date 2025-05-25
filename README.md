@@ -6,8 +6,6 @@
   <li>🌱 現在学んでいる言語: JavaScript, Python, TypeScript</li>
   <li>💼 開発中／取り組み中のプロジェクト:
     <ul>
-      <li><strong>seller</strong> - 商品管理・在庫・翻訳などができる管理用アプリ</li>
-      <li><strong>customer</strong> - 商品閲覧・購入が可能なお客様向けアプリ</li>
       <li><strong>fast-map</strong> - ユーザーに最短経路を提供するMapアプリ</li>
     </ul>
   </li>
