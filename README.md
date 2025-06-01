@@ -90,4 +90,10 @@
     </a>
     - 選択した地点の満潮や風向を提供できるWebアプリ
   </li>
+  <li>
+    <a href="https://fast-map-five.vercel.app/" target="_blank">
+      fast-map
+    </a>
+    - 選択した地点の最短経路・混雑回避経路を紹介するwebーMapアプリ
+  </li>
 </ul>
