@@ -6,7 +6,6 @@
   <li>🌱 現在学んでいる言語: JavaScript, Python, TypeScript</li>
   <li>💼 開発中／取り組み中のプロジェクト:
     <ul>
-      <li><strong>fast-map</strong> - ユーザーに最短経路を提供するMapアプリ</li>
       <li><strong>runnners-free</strong> - フリーランス向けのECサイト</li>
     </ul>
   </li>
