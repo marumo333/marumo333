@@ -1,4 +1,27 @@
- 
+# Hi there 👋 I'm marumo333Add commentMore actions
+<p>文系学生ですが、Webアプリ開発に情熱を持ち、フルスタックで活躍するシステムエンジニアを目指しています。</p>
+
+## About Me
+<ul>
+  <li>🌱 現在学んでいる言語: JavaScript, Python, TypeScript</li>
+  <li>💼 開発中／取り組み中のプロジェクト:
+    <ul>
+      <li><strong>runnners-free</strong> - フリーランス向けのECサイト</li>
+    </ul>
+  </li>
+  <li>📫 連絡先: 
+    <a href="mailto:marumonmon77@gmail.com">marumonmon77@gmail.com</a>
+  </li>
+</ul>
+
+## Skills & Technologies
+<table style="width: 100%; border-collapse: collapse;">
+  <thead>
+    <tr>
+      <th style="padding: 12px; border-bottom: 2px solid #ddd; text-align: left;">Category</th>
+      <th style="padding: 12px; border-bottom: 2px solid #ddd; text-align: left;">Skills</th>
+    </tr>
+  </thead> 
   <tbody>
     <tr>
       <td style="padding: 10px; border-bottom: 1px solid #ddd;">Languages</td>
