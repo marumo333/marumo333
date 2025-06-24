@@ -66,7 +66,7 @@
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=marumo333&layout=donut&langs_count=10&theme=radical&count_private=true" 
-    alt="Top Languages Donut Chart" 
+    alt="All Languages" 
   />
 </p>
 
