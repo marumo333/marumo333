@@ -76,31 +76,31 @@
     <a href="https://outfitapp-delta.vercel.app/" target="_blank">
       outfit-app
     </a>
-    - 服を投稿できるSNS型Webアプリ
+    - 服を投稿できるSNS型Webアプリ(個人開発)
   </li>
   <li>
     <a href="https://seller-weld.vercel.app/" target="_blank">
       seller
     </a>
-    - 商品を管理・編集・翻訳できるWebアプリ
+    - 商品を管理・編集・翻訳できるWebアプリ(個人開発)
   </li>
   <li>
     <a href="https://customer-gamma-one.vercel.app/" target="_blank">
       customer
     </a>
-    - 商品の購入・閲覧が可能な顧客向けアプリ
+    - 商品の購入・閲覧が可能な顧客向けアプリ(個人開発)
   </li>
   <li>
     <a href="https://fish-spot-inky.vercel.app/" target="_blank">
-      fish-spot 
+      fish-spot
     </a>
-    - 選択した地点の満潮や風向を提供できるWebアプリ
+    - 選択した地点の満潮や風向を提供できるWebアプリ(個人開発)
   </li>
   <li>
     <a href="https://fast-map-five.vercel.app/" target="_blank">
       fast-map
     </a>
-    - 選択した地点の最短経路・混雑回避経路を紹介するwebーMapアプリ
+    - 選択した地点の最短経路・混雑回避経路を紹介するwebーMapアプリ(個人開発)
   </li>
   <li>
     <a href="https://choiben-assist-front.vercel.app/" target="_blank">
@@ -109,7 +109,7 @@
    - 生成AIを用いたTodoリスト作成でタスク管理を自動化するアプリ  
     <a href="https://x.com/geek_pjt/status/1946849640994979992" target="_blank">
       狂育CAMPハッカソン2025年度vol7
-    </a>で1週間ほどで作成
+    </a>で1週間ほどで作成(チーム開発)
 
   </li>
   
