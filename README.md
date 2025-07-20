@@ -102,4 +102,15 @@
     </a>
     - 選択した地点の最短経路・混雑回避経路を紹介するwebーMapアプリ
   </li>
+  <li>
+    <a href="https://choiben-assist-front.vercel.app/" target="_blank">
+      ちょい勉アシスト
+    </a>
+   - 生成AIを用いたTodoリスト作成でタスク管理を自動化するアプリ  
+    <a href="https://x.com/geek_pjt/status/1946849640994979992" target="_blank">
+      狂育CAMPハッカソン2025年度vol7
+    </a>で1週間ほどで作成
+
+  </li>
+  
 </ul>
