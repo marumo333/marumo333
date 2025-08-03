@@ -6,7 +6,7 @@
   <li>🌱 現在学んでいる言語: JavaScript,Python,TypeScript,Ruby on Rails,Laravel,C/C++</li>
   <li>💼 開発中／取り組み中のプロジェクト:
     <ul>
-      <li><strong>runnners-free</strong> - フリーランス向けのECサイト</li>
+      <li><strong>runnners-free</strong> - フリーランス向けのECアプリ</li>
     </ul>
   </li>
   <li>📫 連絡先: 
@@ -110,7 +110,12 @@
     <a href="https://x.com/geek_pjt/status/1946849640994979992" target="_blank">
       狂育CAMPハッカソン2025年度vol7
     </a>で1週間ほどで作成(チーム開発)
-
+  </li>
+  <li>
+    <a href="https://runners-free.vercel.app/" target="_blank">
+      runnners-free
+    </a>
+    - フリーランス向けのECアプリ(個人開発)
   </li>
   
 </ul>
