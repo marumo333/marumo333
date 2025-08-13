@@ -6,7 +6,7 @@
   <li>🌱 現在学んでいる言語: JavaScript,Python,TypeScript,Ruby on Rails,Laravel,C/C++</li>
   <li>💼 開発中／取り組み中のプロジェクト:
     <ul>
-      <li><strong>runnners-free</strong> - フリーランス向けのECアプリ</li>
+      <li><strong>hyjack</strong> - 40~50代男性向けの趣味交流・情報交換ECプラットフォーム(理想)</li>
     </ul>
   </li>
   <li>📫 連絡先: 
