@@ -117,5 +117,11 @@
     </a>
     - フリーランス向けのECアプリ(個人開発)
   </li>
+  <li>
+    <a href="https://portfolio-site-hazel-iota.vercel.app/" target="_blank">
+      portfolio-site
+    </a>
+    - ポートフォリオサイト(個人開発)
+  </li>
   
 </ul>
