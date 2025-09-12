@@ -3,7 +3,7 @@
 
 ## About Me
 <ul>
-  <li>🌱 現在学んでいる言語: JavaScript,Python,TypeScript,Ruby on Rails,Laravel,C/C++</li>
+  <li>🌱 現在学んでいる言語: React,Python,TypeScript,Ruby on Rails,Laravel,C/C++,Go</li>
   <li>💼 開発中／取り組み中のプロジェクト:
     <ul>
       <li><strong>hyjack</strong> - 40~50代男性向けの趣味交流・情報交換ECプラットフォーム(理想)</li>
@@ -25,7 +25,7 @@
   <tbody>
     <tr>
       <td style="padding: 10px; border-bottom: 1px solid #ddd;">Languages</td>
-      <td style="padding: 10px; border-bottom: 1px solid #ddd;">JavaScript, Python, TypeScript,PHP,Ruby</td>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">JavaScript, Python, TypeScript,PHP,Ruby,Go</td>
     </tr>
     <tr>
       <td style="padding: 10px; border-bottom: 1px solid #ddd;">Frameworks</td>
