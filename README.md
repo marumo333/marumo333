@@ -6,7 +6,7 @@
   <li>🌱 現在学んでいる言語: React,Python,TypeScript,Ruby on Rails,Laravel,C/C++,Go</li>
   <li>💼 開発中／取り組み中のプロジェクト:
     <ul>
-      <li><strong>hyjack</strong> - 推定ツール(理想)</li>
+      <li><strong>FAQuick</strong> - AIによるFAQ自動化ツール</li>
     </ul>
   </li>
   <li>📫 連絡先: 
