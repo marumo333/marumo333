@@ -53,19 +53,19 @@
 ## GitHub Stats
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=marumo333&show_icons=true&theme=radical" 
+    src="https://github-readme-stats-orcin-two-26.vercel.app/api?username=marumo333&show_icons=true&theme=radical" 
     alt="GitHub Stats" 
   />
 </p>
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marumo333&layout=compact&theme=radical" 
+    src="https://github-readme-stats-orcin-two-26.vercel.app/api/top-langs/?username=marumo333&layout=compact&theme=radical" 
     alt="Top Languages" 
   />
 </p>
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marumo333&layout=donut&langs_count=10&theme=radical&count_private=true" 
+    src="https://github-readme-stats-orcin-two-26.vercel.app/api/top-langs/?username=marumo333&layout=donut&langs_count=10&theme=radical&count_private=true" 
     alt="All Languages" 
   />
 </p>
