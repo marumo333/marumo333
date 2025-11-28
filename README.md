@@ -45,7 +45,7 @@
     </tr>
     <tr>
       <td style="padding: 10px;">Others</td>
-      <td style="padding: 10px;">Tailwind CSS, REST API, Figma</td>
+      <td style="padding: 10px;">Tailwind CSS,shadcn/ui, REST API, Figma</td>
     </tr>
   </tbody>
 </table>
