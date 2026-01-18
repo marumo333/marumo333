@@ -3,7 +3,7 @@
 
 ## About Me
 <ul>
-  <li>🌱 現在学んでいる言語: React,Python,TypeScript,Svelte,SveltKit</li>
+  <li>🌱 現在学んでいる言語: React,Python(FastAPI),TypeScript,Svelte,SveltKit</li>
   <li>💼 開発中／取り組み中のプロジェクト:
     <ul>
       <li><strong>marumo333-portfolio</strong> - portfolioアプリの改修</li>
