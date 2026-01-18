@@ -3,10 +3,10 @@
 
 ## About Me
 <ul>
-  <li>🌱 現在学んでいる言語: React,Python,TypeScript,Ruby on Rails,Laravel,C/C++,Go</li>
+  <li>🌱 現在学んでいる言語: React,Python,TypeScript,Svelte,SveltKit</li>
   <li>💼 開発中／取り組み中のプロジェクト:
     <ul>
-      <li><strong>rag-faq-app</strong> - AIによるFAQ自動化ツール</li>
+      <li><strong>marumo333-portfolio</strong> - portfolioアプリの改修</li>
     </ul>
   </li>
   <li>📫 連絡先: 
@@ -29,7 +29,7 @@
     </tr>
     <tr>
       <td style="padding: 10px; border-bottom: 1px solid #ddd;">Frameworks</td>
-      <td style="padding: 10px; border-bottom: 1px solid #ddd;">React, Next.js, Node.js, Vue.js,Laravel,Ruby on Rails</td>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">React, Next.js, Node.js, Vue.js,Laravel,Ruby on Rails,Svelte,SvelteKit</td>
     </tr>
     <tr>
       <td style="padding: 10px; border-bottom: 1px solid #ddd;">Databases</td>
