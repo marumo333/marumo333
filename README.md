@@ -73,10 +73,10 @@
 ## Recent Projects
 <ul>
   <li>
-    <a href="https://outfitapp-delta.vercel.app/" target="_blank">
-      outfit-app
+    <a href="https://rag-faq-app.vercel.app/" target="_blank">
+      rag-faq-app
     </a>
-    - 服を投稿できるSNS型Webアプリ(個人開発)
+    - RAGを用いたFAQアプリ(個人開発)
   </li>
   <li>
     <a href="https://seller-weld.vercel.app/" target="_blank">
