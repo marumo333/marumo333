@@ -25,7 +25,7 @@
   <tbody>
     <tr>
       <td style="padding: 10px; border-bottom: 1px solid #ddd;">Languages</td>
-      <td style="padding: 10px; border-bottom: 1px solid #ddd;">JavaScript, Python, TypeScript,PHP,Ruby,Go</td>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">Java,JavaScript, Python, TypeScript,PHP,Ruby,Go</td>
     </tr>
     <tr>
       <td style="padding: 10px; border-bottom: 1px solid #ddd;">Frameworks</td>
