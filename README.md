@@ -37,7 +37,7 @@
     </tr>
     <tr>
       <td style="padding: 10px; border-bottom: 1px solid #ddd;">Deployment</td>
-      <td style="padding: 10px; border-bottom: 1px solid #ddd;">Vercel,AWS</td>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">Vercel,AWS,Render,GCP</td>
     </tr>
     <tr>
       <td style="padding: 10px; border-bottom: 1px solid #ddd;">Tools</td>
@@ -45,7 +45,7 @@
     </tr>
     <tr>
       <td style="padding: 10px;">Others</td>
-      <td style="padding: 10px;">Tailwind CSS,shadcn/ui, REST API, Figma</td>
+      <td style="padding: 10px;">Tailwind CSS,shadcn/ui, REST API, Figma, PandaCSS</td>
     </tr>
   </tbody>
 </table>
