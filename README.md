@@ -29,7 +29,7 @@
     </tr>
     <tr>
       <td style="padding: 10px; border-bottom: 1px solid #ddd;">Frameworks</td>
-      <td style="padding: 10px; border-bottom: 1px solid #ddd;">React, Next.js, Node.js, Vue.js,Laravel,Ruby on Rails,Svelte,SvelteKit</td>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">React, Next.js, Node.js, Vue.js, Laravel, Ruby on Rails, Svelte, SvelteKit, FastAPI</td>
     </tr>
     <tr>
       <td style="padding: 10px; border-bottom: 1px solid #ddd;">Databases</td>
