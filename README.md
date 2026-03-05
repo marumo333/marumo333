@@ -129,10 +129,18 @@
     </a>
     - 狂育CAMPハッカソンvol14(努力賞受賞)
     - tier表✖️Mapを融合したMapアプリ(チーム開発)
-  </li><li>
+  </li>
+  <li>
     <a href="https://www.job-mate.jp/" target="_blank">
       Job-Mate
     </a>
     - 就活生向けに有価証券データを元に企業研究に特化したwebアプリ(個人開発)
+  </li>
+  https://reciregi.jp
+   <li>
+    <a href="https://www.job-mate.jp/" target="_blank">
+      ReciRegi
+    </a>
+    - レシート画像orPDFをアップロードするだけでAIがスプレッドシートまたはFree対応のCSVに自動入力してくれるAIエージェント
   </li>
 </ul>
