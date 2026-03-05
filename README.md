@@ -136,9 +136,8 @@
     </a>
     - 就活生向けに有価証券データを元に企業研究に特化したwebアプリ(個人開発)
   </li>
-  https://reciregi.jp
    <li>
-    <a href="https://www.job-mate.jp/" target="_blank">
+    <a href="https://reciregi.jp" target="_blank">
       ReciRegi
     </a>
     - レシート画像orPDFをアップロードするだけでAIがスプレッドシートまたはFree対応のCSVに自動入力してくれるAIエージェント
