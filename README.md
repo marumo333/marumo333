@@ -1,13 +1,15 @@
 # Hi there 👋 I'm marumo333Add commentMore actions
-<p>Webアプリ開発に情熱を持ち、フルスタックで活躍するシステムエンジニアを目指し、プロダクトで社会を活性化させることを目指しています。</p>
+<p>Passionate about web development, I am striving to become a full-stack engineer dedicated to energizing society through impactful products.</p>
 
 ## About Me
 <ul>
-  <li>🌱 現在学んでいる言語: Java,PHP,Python(FastAPI),TypeScript,Svelte(SveltKit)</li>
-  <li>💼 開発中／取り組み中のプロジェクト:
+  <li>🌱 Currently learning: PHP, Python</li>
+  <li>💼 Currently working on:
     <ul>
-      <li><strong>marumo333-portfolio</strong> - portfolioアプリの改修</li>
+      <li><strong>chokeflow</strong> - Chokepoint analysis tool</li>
     </ul>
+  </li>
+</ul>
   </li>
   <li>📫 連絡先: 
     <a href="mailto:marumonmon77@gmail.com">marumonmon77@gmail.com</a>
@@ -25,11 +27,11 @@
   <tbody>
     <tr>
       <td style="padding: 10px; border-bottom: 1px solid #ddd;">Languages</td>
-      <td style="padding: 10px; border-bottom: 1px solid #ddd;">Java,JavaScript, Python, TypeScript,PHP,Ruby,Go</td>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">Java,JavaScript, Python, TypeScript,PHP,Ruby</td>
     </tr>
     <tr>
       <td style="padding: 10px; border-bottom: 1px solid #ddd;">Frameworks</td>
-      <td style="padding: 10px; border-bottom: 1px solid #ddd;">React, Next.js, Node.js, Vue.js, Laravel, Ruby on Rails, Svelte, SvelteKit, FastAPI</td>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">Next.js, Laravel, Ruby on Rails, SvelteKit, FastAPI</td>
     </tr>
     <tr>
       <td style="padding: 10px; border-bottom: 1px solid #ddd;">Databases</td>
