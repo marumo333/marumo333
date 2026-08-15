@@ -8,7 +8,6 @@
     <ul>
       <li><strong>kaiyaku-no-mikata</strong> - Free web app that organizes cancellation fees, procedures, and vendor tactics from an uploaded contract</li>
       <li><strong>cursor-harness</strong> - Cursor agent harness for recursive self-improvement and graph engineering</li>
-      <li><strong>chokeflow</strong> - Real-time maritime chokepoint tracker for geopolitical traders</li>
     </ul>
   </li>
   <li>📫 Contact:
