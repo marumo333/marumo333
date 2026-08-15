@@ -37,7 +37,7 @@
     </tr>
     <tr>
       <td style="padding: 10px; border-bottom: 1px solid #ddd;">Deployment</td>
-      <td style="padding: 10px; border-bottom: 1px solid #ddd;">Vercel, AWS, Render, GCP</td>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">Vercel, AWS, Render, Google cloud, Cloudflare</td>
     </tr>
     <tr>
       <td style="padding: 10px; border-bottom: 1px solid #ddd;">Tools</td>
