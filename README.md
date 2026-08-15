@@ -146,7 +146,7 @@
     - Model production and delivery layer paired with jp-code-agent
   </li>
   <li>
-    <a href="https://github.com/marumo333/kaiyaku-no-mikata" target="_blank">kaiyaku-no-mikata</a>
+    <a href="https://kaiyakunomikata.com/" target="_blank">kaiyaku-no-mikata</a>
     - Cancellation navigator: upload a contract and get cancellation fees, steps, and vendor tactics (Astro / Cloudflare Workers / D1)
   </li>
   <li>
