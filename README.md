@@ -34,7 +34,7 @@
     </tr>
     <tr>
       <td style="padding: 10px; border-bottom: 1px solid #ddd;">Databases</td>
-      <td style="padding: 10px; border-bottom: 1px solid #ddd;">PostgreSQL, Supabase, Neon, MySQL, Firebase, Cloudflare D1</td>
+      <td style="padding: 10px; border-bottom: 1px solid #ddd;">PostgreSQL(Supabase,Neon), MySQL, Firebase, Cloudflare D1</td>
     </tr>
     <tr>
       <td style="padding: 10px; border-bottom: 1px solid #ddd;">Deployment</td>
